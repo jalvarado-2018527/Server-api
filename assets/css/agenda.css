@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.altmax{
+    height: 100%;
+    width: 100%;
+}
+
+.fondo{
+    background-image: url(../img/fondoAgenda.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    border: 0;
+    margin: 0;
+}
+
+.fondo2{
+    background-image: url(../img/35152.jpg);
+    background-position: center center;
+    color: white;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    border: 0;
+    margin: 0;
+}
+
+.buttom{
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.imagen{
+    height: 75px;
+    width: 75px;
+}
+
+.imagendos{
+    height: 50px;
+    width: 50px;
+    margin: 9%;
+}
+
+.imagentres{
+    height: 75%;
+    width: 75%;
+    margin: 3%;
+    border-radius: 3%;
+}
+
+
+.background-gris{
+    background-color: gray;
+}
+
+.background-gris-dos{
+    background-color: silver;
+    opacity: 0.9;
+    color: black;
+}
+
+.ficha{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    opacity: 0.9;
+    border-radius: 5%;
+}
